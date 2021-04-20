@@ -1,0 +1,7 @@
+.animation-img img{
+    cursor: pointer;
+    transition: transform 2s;
+}
+.service-img:hover img {
+    transform: scale(1.2);
+}
